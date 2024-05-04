@@ -1,6 +1,4 @@
-### Hi there 👋
-
----
+### Estudiante de Ingeniaría 👨🏼‍💻
 
 __**Herramientas:**__
 <br /><br />
