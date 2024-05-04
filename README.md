@@ -3,10 +3,10 @@
 ---
 
 __**Herramientas:**__
-<br />
+<br /><br />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<br />
+<br /><br />
 
 ---
 <br />
